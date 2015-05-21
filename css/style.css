@@ -426,6 +426,13 @@ h2.slide-btm-text{
 #readmorebtn{
     border-color: #25CBF5;
 }
+.left-right{
+       -webkit-column-count: 2;
+       -webkit-column-gap: 44px;
+       text-align: justify;
+       margin-top: 11px;
+}
+
 /**testimonials**/
 .testimonials{
     background:url;
